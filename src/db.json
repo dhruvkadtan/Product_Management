@@ -7,7 +7,7 @@
       "price": "98",
       "quantity": "3",
       "egg": "Yes",
-      "vendor": "Jai_Sehgal",
+      "vendor": "Dhruv",
       "ig1": "Cream",
       "ig2": "Cheese",
       "ig3": "blueberry",
@@ -20,7 +20,7 @@
       "description": " Slightly moist, tender and Moist, tender and light Soft, springy texture, flaky crumb, with a medium crumb, with medium fine, tender and slightly moist fine grain. evenly distributed air with fine grain, thin- spaces.",
       "price": "20",
       "egg": "Yes",
-      "vendor": "Sahil",
+      "vendor": "Shubham",
       "quantity": "4",
       "ig1": "floor",
       "ig2": "butter",
@@ -34,7 +34,7 @@
       "description": "Soft and creamy, light and fluffy, or firm and dense. Varying the oven temperature and using whole or separated eggs make all the difference.",
       "price": "78",
       "egg": "Yes",
-      "vendor": "Jai_Sehgal",
+      "vendor": "Dhruv",
       "ig1": "floor",
       "ig2": "butter",
       "quantity": "9",
@@ -48,7 +48,7 @@
       "description": " Image result for sandwich description A sandwich is a food typically consisting of vegetables, sliced cheese or meat, placed on or between slices of bread, or more generally any dish wherein bread serves as a container or wrapper for another food type.",
       "price": "78",
       "egg": "Yes",
-      "vendor": "Jai_Sehgal",
+      "vendor": "Dhruv",
       "ig1": "Bread",
       "quantity": "12",
       "ig2": "Cheese",
@@ -62,7 +62,7 @@
       "description": " Hamburger is subsequently defined as consisting of “chopped fresh and/or frozen beef with or without the addition of beef fat as such and/or seasoning, shall not contain more than 30% fat, and shall not contain added water, phosphates, binders, or extenders”",
       "price": "40",
       "egg": "No",
-      "vendor": "Sahil",
+      "vendor": "Shubham",
       "ig1": "Buns",
       "quantity": "4",
       "ig2": "Beef",
@@ -76,7 +76,7 @@
       "description": "Cheese is a dairy product produced in wide ranges of flavors, textures, and forms by coagulation of the milk protein casein. It comprises proteins and fat from milk, usually the milk of cows, buffalo, goats, or sheep",
       "price": "149",
       "egg": "No",
-      "vendor": "Sahil",
+      "vendor": "Shubham",
       "ig1": "Cow-Milk",
       "ig2": "Yeast",
       "ig3": "Goat-Milk",
@@ -90,7 +90,7 @@
       "description": "A croissant is a laminated, yeast-leavened bakery product that contains dough/roll-in fat layers to create a flaky, crispy texture. Croissants belong to the Viennoiserie or pastry category of baked goods along with brioche, Danish and puff pastries. A croissant usually contains normal levels of salt, yeast and sugar.",
       "price": "40",
       "egg": "Yes",
-      "vendor": "Parv",
+      "vendor": "Chinu",
       "ig1": "floor",
       "ig2": "butter",
       "quantity": "45",
@@ -104,7 +104,7 @@
       "description": "A cookie is a baked or cooked snack or dessert that is typically small, flat and sweet. It usually contains flour, sugar, egg, and some type of oil, fat, or butter. It may include other ingredients such as raisins, oats, chocolate chips, nuts, etc",
       "price": "39",
       "egg": "Yes",
-      "vendor": "Parv",
+      "vendor": "Chinu",
       "ig1": "floor",
       "ig2": "butter",
       "quantity": "8",
@@ -118,7 +118,7 @@
       "description": "A doughnut is a delicious, deep-fried breakfast treat. Most doughnuts are round and have a hole in the center. Some have frosting and sprinkles, too. You can also call a doughnut a donut, a slightly more common way to spell it in North America.",
       "price": "35",
       "egg": "Yes",
-      "vendor": "Vivek",
+      "vendor": "Mayur",
       "ig1": "floor",
       "ig2": "butter",
       "ig3": "Yeast",
@@ -132,7 +132,7 @@
       "description": "A cappuccino is the perfect balance of espresso, steamed milk and foam. This coffee is all about the structure and the even splitting of all elements into equal thirds. An expertly made cappuccino should be rich, but not acidic and have a mildly sweet flavouring from the milk.",
       "price": "49",
       "egg": "No",
-      "vendor": "Vivek",
+      "vendor": "Mayur",
       "ig1": "Milk",
       "ig2": "Coffee",
       "quantity": "22",
@@ -146,7 +146,7 @@
       "description": "Espresso is a concentrated form of coffee served in small, strong shots and is the base for many coffee drinks. It's made from the same beans as coffee but is stronger, thicker, and higher in caffeine. However, because espresso is typically served in smaller servings than coffee, it has less caffeine per serving.",
       "price": "40",
       "egg": "No",
-      "vendor": "Vivek",
+      "vendor": "Mayur",
       "ig1": "Coffee",
       "ig2": "Milk",
       "quantity": "12",
@@ -200,6 +200,21 @@
       "product3": "Coffee",
       "product4": "Cheese Cake",
       "id": 1
+    },
+    {
+      "fname": "Dhruv",
+      "lname": "Kadtan",
+      "email": "dkadtans@gmail.com",
+      "password": "Dhruv@123",
+      "confirm_password": "Dhruv@123",
+      "phone_number": 9028567336,
+      "location": "Pune",
+      "product1": "Cake",
+      "product2": "Pizza",
+      "product3": "Cake",
+      "product4": "Pizza",
+      "vid": "DK",
+      "id": 2
     }
   ],
   "login": [
@@ -381,6 +396,22 @@
     {
       "productname": "cheese",
       "id": 38
+    },
+    {
+      "productname": "cheese",
+      "id": 39
+    },
+    {
+      "productname": "cheese",
+      "id": 40
+    },
+    {
+      "productname": "cheese",
+      "id": 41
+    },
+    {
+      "productname": "Cheese Cake",
+      "id": 42
     }
   ]
 }
